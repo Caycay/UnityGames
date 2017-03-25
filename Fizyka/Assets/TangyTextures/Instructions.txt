@@ -1,0 +1,26 @@
+TangyTextures is a node-based procedural material generator for Unity. 
+
+We recommend you to visit our homepage http://www.lemonspawn.com for tutorials and documentation.
+
+Example materials are located under Assets/TangyTextures/Data/Textures, but can be placed anywhere you desire.
+
+To start TangyTextures, select Window/LemonSpawn/TangyTextyres and dock the editor window / material preview window at a suitable place. 
+
+First, pan the window by shift+click+drag anywhere on the canvas. 
+
+Right-click to add nodes, such as heightmap generators etc. Connect nodes with same colours. If the node system is compilable (the box is green), 
+materials are automatically generated and displayed in the preview window. If the system suddenly has a problem and doesn't compile, you can force calculation by 
+pressing the "force calculate" button. If you happened to start compiling a complex material, you can always abort the current calculation with the "Abort" button.
+
+If TangyTextures starts acting weird (sluggish etc), press "play" and "stop" to recompile / restart the system.
+
+We strongly encourage you to check out the tutorials at lemonspawn.com! 
+
+NOTE: TangyTextures is still in development. If you find any bugs, have comments or suggestions, don't hesitate contacting us! Also, if you
+happen to use materials created with TangyTextures in a published product, please let us know - would be cool to see :)
+
+And as ever, thanks for buying!
+
+
+
+
